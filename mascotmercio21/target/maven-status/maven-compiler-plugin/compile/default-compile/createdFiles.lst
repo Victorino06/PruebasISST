@@ -1,0 +1,12 @@
+es\upm\dit\isst\mascotmercio21\config\CorsConfig.class
+es\upm\dit\isst\mascotmercio21\config\CorsConfig$1.class
+es\upm\dit\isst\mascotmercio21\Mascotmercio21Application.class
+es\upm\dit\isst\mascotmercio21\model\Establecimiento.class
+es\upm\dit\isst\mascotmercio21\repository\PropietarioRepository.class
+es\upm\dit\isst\mascotmercio21\repository\ClienteRepository.class
+es\upm\dit\isst\mascotmercio21\model\Propietario.class
+es\upm\dit\isst\mascotmercio21\repository\EstablecimientoRepository.class
+es\upm\dit\isst\mascotmercio21\controller\PropietarioController.class
+es\upm\dit\isst\mascotmercio21\controller\EstablecimientoController.class
+es\upm\dit\isst\mascotmercio21\model\Cliente.class
+es\upm\dit\isst\mascotmercio21\controller\ClienteController.class
